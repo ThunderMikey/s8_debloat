@@ -1,0 +1,13 @@
+com.facebook.appmanager
+com.facebook.katana
+com.facebook.services
+com.facebook.system
+com.microsoft.office.excel
+com.microsoft.office.powerpoint
+com.microsoft.office.word
+com.microsoft.skydrive
+com.samsung.android.app.galaxyfinder
+com.samsung.android.app.sbrowseredge
+com.samsung.android.app.spage
+com.samsung.android.app.watchmanagerstub
+com.samsung.android.app.withtv
